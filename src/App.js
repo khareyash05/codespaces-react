@@ -21,6 +21,7 @@ function App() {
             Learn React
           </a>
         </p>
+        <p>Hello to my first Codespace</p>
       </header>
     </div>
   );
